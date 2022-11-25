@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaSMEMQDvB9davP2Tyfo2u0TElCBHTf1HEDBoi4hMK6NoQTwcc8rtF3tUYENqkVsvRC88/poZ2oj743grOPKHQ==",
+  "success": true,
+  "projectFilePath": "/home/emil/dev/c#/lab3 - копия/lab1/lab3.csproj",
+  "expectedPackageFiles": [
+    "/home/emil/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.30/microsoft.netcore.app.host.linux-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
